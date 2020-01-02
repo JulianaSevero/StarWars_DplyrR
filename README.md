@@ -1,0 +1,1 @@
+Os exemplos e definições de funções utilizados para o aprendizado, são baseados em : na documentação dplyr Package (https://dplyr.tidyverse.org/reference/) e na Wiki R (https://www.ufrgs.br/wiki-r/index.php?title=Bem-vindo_%C3%A0_Wiki_R) 
